@@ -1,0 +1,4 @@
+CHANGED,E:\AS\ApiDemos1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\apis\animation\BouncingBalls$MyAnimationView$1$override.class
+CHANGED,E:\AS\ApiDemos1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,E:\AS\ApiDemos1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\apis\animation\BouncingBalls$override.class
+CHANGED,E:\AS\ApiDemos1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\apis\animation\BouncingBalls$MyAnimationView$override.class

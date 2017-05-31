@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\AS\ApiDemos1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="8b07c75999b9673ff80e51f62ac39ba134740bc1">
+        <dex dex="E:\AS\ApiDemos1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ea6f74706830ef322a5aea50d2a287146a0c7f07\classes.dex" />
+    </item>
+    <item
+        jar="E:\AS\ApiDemos1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="4fefdb4cf84974e98e85b114054cd8c52e413ff5">
+        <dex dex="E:\AS\ApiDemos1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_204ef1e0cd6ef4f9de8e80049870062ffc4a16d6\classes.dex" />
+    </item>
+
+</items>
